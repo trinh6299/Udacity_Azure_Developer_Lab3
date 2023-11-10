@@ -21,6 +21,7 @@ mccabe==0.6.1
 msrest==0.6.13
 msrestazure==0.6.3
 oauthlib==3.1.0
+psycopg2==2.8.5
 pycparser==2.20
 PyJWT==1.7.1
 pylint==2.5.2
@@ -35,3 +36,4 @@ toml==0.10.0
 uamqp==1.2.7
 urllib3==1.25.9
 Werkzeug==1.0.1
+wrapt==1.12.1
